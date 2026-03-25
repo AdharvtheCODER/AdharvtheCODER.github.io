@@ -1,0 +1,32 @@
+{
+    "MZ_Babu": {
+        "id": 3,
+        "status": "Administrator",
+        "password": "Axolotlmonkey22!",
+        "objective": "hi hi hih hioirhgsfhdgfgdfggkadsfhhjghgfjdghfgdfgadggfggadshgfgdsh"
+    },
+    "KINGKABIR": {
+        "id": 2,
+        "status": "Administrator",
+        "password": "HIHIHIHI!!!",
+        "objective": "I just wanted to let u know im making a messaging app."
+    },
+    "Manasvi:)": {
+        "id": 4,
+        "status": "Lieutenant",
+        "password": "107842712!",
+        "objective": "fdghdufhgshkhkfhkgkjhgfhksdkhjgfjjkhgfjghshdghkghgfsdgh"
+    },
+    "Adharv Shiju": {
+        "id": 1,
+        "status": "Administrator",
+        "password": "halifax123!",
+        "objective": "Do you want to do the Code Craze event?"
+    },
+    "prajygoddess": {
+        "id": 5,
+        "status": "Administrator",
+        "password": "PRAJY123!",
+        "objective": "hi"
+    }
+}
